@@ -85,3 +85,68 @@ Our lab brings together researchers from diverse scientific backgrounds, working
   title="Our Team"
   text=text
 %}
+
+## Funding
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/cabd-logo.png"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/csic-logo.png"
+%}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/upo-logo.png"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/Maeztu.png"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/AEinvest.png"
+%}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/Junta_logo.png"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{%
+  include figure.html
+  image="images/erc-logo-new-website_1_0.png"
+%}
