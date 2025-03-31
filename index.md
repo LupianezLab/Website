@@ -14,15 +14,13 @@
 
 Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is determined and maintained and how this information is encoded in vertebrate genomes.
 
-Our methodology employs approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our methodology employs approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
 {%
   include button.html
   link="research"
@@ -44,8 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our research focuses on two key areas: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
 {%
   include button.html
   link="projects"
@@ -69,8 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our lab brings together researchers from diverse scientific backgrounds, working at both experimental and computational levels. Get to know our team—PhD students, postdocs, technicians, and more—who contribute to our dynamic research environment.
 {%
   include button.html
   link="team"
