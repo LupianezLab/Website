@@ -42,7 +42,7 @@ Our methodology employs approaches to map 3D chromatin structures and regulatory
 
 {% capture text %}
 
-Our research focuses on two key areas: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
+Our projects focus on two key areas: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
 {%
   include button.html
   link="projects"
@@ -80,7 +80,7 @@ Our lab brings together researchers from diverse scientific backgrounds, working
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
