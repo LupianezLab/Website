@@ -3,8 +3,18 @@
 
 # LupianezLab's Website
 
-An engaging 1-3 sentence description of your lab.
 
+
+    “How can one fit 2 meters of DNA inside the nucleus of a cell?”
+
+    “Simple! You just need to fold it in the right way”
+    The Tao of the genome 
+
+———————————————
+
+Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is determined and maintained and how this information is encoded in vertebrate genomes.
+
+Our methodology employs approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
 {% include section.html %}
 
 ## Highlights
