@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Publications
 nav:
   order: 2
   tooltip: Software, datasets, and more
@@ -16,12 +16,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Higlighted
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## All
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
