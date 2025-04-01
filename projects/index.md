@@ -5,7 +5,7 @@ nav:
   tooltip: Selected works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-book" %}
 
 {% include section.html %}
 
