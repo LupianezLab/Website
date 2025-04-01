@@ -745,7 +745,7 @@
   date: '2016-04-01'
   link: https://doi.org/f8h9n4
   type: paper
-  image: images/skate.jpg
+  image: images/breaking_tads.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-023-05868-1
