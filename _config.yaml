@@ -10,7 +10,7 @@ proofer: false
 links:
   email: dario.lupianez@csic.es
   orcid: https://orcid.org/0000-0002-3165-036X
-  google-scholar:
+  google-scholar: https://scholar.google.ca/citations?user=zdiwCdgAAAAJ&hl=en
   github: LupianezLab
   bluesky: dariloops.bsky.social
 
