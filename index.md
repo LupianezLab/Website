@@ -15,7 +15,7 @@ Our laboratory is interested in this beautiful but complex question. In other wo
 
 {% capture text %}
 
-Our research is based on approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
+Our research uses approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
 {%
   include button.html
   link="research"
