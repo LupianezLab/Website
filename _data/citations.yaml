@@ -1,205 +1,735 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: pmid:38714644
+  title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster.
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Alicia Hurtado
+  - "Irene Mota-G\xF3mez"
+  - Miguel Lao
+  - Francisca M Real
+  - Johanna Jedamzick
+  - Miguel Burgos
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J Barrionuevo
+  publisher: Nature communications
+  date: '2024-05-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38714644
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: pmid:38658712
+  title: Marsupial genomes reveal how a skin membrane for gliding evolved.
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  publisher: Nature
+  date: '2024-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38658712
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38047596
+  title: 'Cancer Evolution: A Multifaceted Affair.'
+  authors:
+  - Giovanni Ciriello
+  - Luca Magnani
+  - Sarah J Aitken
+  - Leila Akkari
+  - Sam Behjati
+  - Douglas Hanahan
+  - Dan A Landau
+  - Nuria Lopez-Bigas
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Jean-Christophe Marine
+  - Ana Martin-Villalba
+  - Gioacchino Natoli
+  - Anna C Obenauf
+  - Elisa Oricchio
+  - Paola Scaffidi
+  - Andrea Sottoriva
+  - Alexander Swarbrick
+  - Giovanni Tonon
+  - Sakari Vanharanta
+  - Johannes Zuber
+  publisher: Cancer discovery
+  date: '2024-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38047596
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37046085
+  title: The little skate genome and the evolutionary emergence of wing-like fins.
+  authors:
+  - "Ferdinand Marl\xE9taz"
+  - Elisa de la Calle-Mustienes
+  - Rafael D Acemel
+  - Christina Paliou
+  - Silvia Naranjo
+  - "Pedro Manuel Mart\xEDnez-Garc\xEDa"
+  - Ildefonso Cases
+  - Victoria A Sleight
+  - Christine Hirschberger
+  - Marina Marcet-Houben
+  - Dina Navon
+  - Ali Andrescavage
+  - Ksenia Skvortsova
+  - Paul Edward Duckett
+  - "\xC1lvaro Gonz\xE1lez-Rajal"
+  - Ozren Bogdanovic
+  - Johan H Gibcus
+  - Liyan Yang
+  - Lourdes Gallardo-Fuentes
+  - Ismael Sospedra
+  - Javier Lopez-Rios
+  - Fabrice Darbellay
+  - Axel Visel
+  - Job Dekker
+  - Neil Shubin
+  - "Toni Gabald\xF3n"
+  - Tetsuya Nakamura
+  - Juan J Tena
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Daniel S Rokhsar
+  - "Jos\xE9 Luis G\xF3mez-Skarmeta"
+  publisher: Nature
+  date: '2023-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37046085
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37024684
+  title: Dynamic antagonism between key repressive pathways maintains the placental
+    epigenome.
+  authors:
+  - Raha Weigert
+  - Sara Hetzel
+  - Nina Bailly
+  - Chuck Haggerty
+  - Ibrahim A Ilik
+  - Philip Yuk Kwong Yung
+  - Carmen Navarro
+  - Adriano Bolondi
+  - Abhishek Sampath Kumar
+  - Chiara Anania
+  - "Bj\xF6rn Br\xE4ndl"
+  - David Meierhofer
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Franz-Josef M\xFCller"
+  - Tugce Aktas
+  - "Simon J Els\xE4sser"
+  - Helene Kretzmer
+  - Zachary D Smith
+  - Alexander Meissner
+  publisher: Nature cell biology
+  date: '2023-04-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37024684
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36603519
+  title: Evolution of 3D chromatin organization at different scales.
+  authors:
+  - Rafael D Acemel
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  publisher: Current opinion in genetics & development
+  date: '2023-01-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36603519
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.18.516861
+  title: Sex-determining 3D regulatory hubs revealed by genome spatial auto-correlation
+    analysis
+  authors:
+  - "Irene Mota-G\xF3mez"
+  - "Juan Antonio Rodr\xEDguez"
+  - Shannon Dupont
+  - Oscar Lao
+  - Johanna Jedamzick
+  - Ralf Kuhn
+  - Scott Lacadie
+  - "Sara Alexandra Garc\xEDa-Moreno"
+  - Alicia Hurtado
+  - Rafael D. Acemel
+  - Blanche Capel
+  - Marc A. Marti-Renom
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-11-18'
+  link: https://doi.org/gq9qx4
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: pmid:36112694
+  title: "C/EBP\u03B2 regulates lipid metabolism and"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "Dorothea D\xF6rr"
+  - Benedikt Obermayer
+  - January Mikolaj Weiner
+  - Karin Zimmermann
+  - Chiara Anania
+  - Lisa Katharina Wagner
+  - Ekaterini Maria Lyras
+  - Valeriia Sapozhnikova
+  - David Lara-Astiaso
+  - "Felipe Pr\xF3sper"
+  - Roland Lang
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Dieter Beule
+  - "Uta E H\xF6pken"
+  - Achim Leutz
+  - Alexander Mildner
+  publisher: Science immunology
+  date: '2022-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36112694
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: pmid:35817979
+  title: In vivo dissection of a clustered-CTCF domain boundary reveals developmental
+    principles of regulatory insulation.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Chiara Anania
+  - Rafael D Acemel
+  - Johanna Jedamzick
+  - Adriano Bolondi
+  - Giulia Cova
+  - Norbert Brieske
+  - "Ralf K\xFChn"
+  - Lars Wittler
+  - Francisca M Real
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  publisher: Nature genetics
+  date: '2022-07-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35817979
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35535962
+  title: Cell adhesion and immune response, two main functions altered in the transcriptome
+    of seasonally regressed testes of two mammalian species.
+  authors:
+  - Francisca M Real
+  - "Miguel Lao-P\xE9rez"
+  - Miguel Burgos
+  - Stefan Mundlos
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J Barrionuevo
+  publisher: Journal of experimental zoology. Part B, Molecular and developmental
+    evolution
+  date: '2022-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35535962
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33033216
+  title: The mole genome reveals regulatory rearrangements associated with adaptive
+    intersexuality.
+  authors:
+  - Francisca M Real
+  - Stefan A Haas
+  - Paolo Franchini
+  - Peiwen Xiong
+  - Oleg Simakov
+  - Heiner Kuhl
+  - "Robert Sch\xF6pflin"
+  - David Heller
+  - M-Hossein Moeinzadeh
+  - Verena Heinrich
+  - Thomas Krannich
+  - Annkatrin Bressin
+  - Michaela F Hartmann
+  - Stefan A Wudy
+  - Dina K N Dechmann
+  - Alicia Hurtado
+  - Francisco J Barrionuevo
+  - Magdalena Schindler
+  - Izabela Harabula
+  - Marco Osterwalder
+  - Michael Hiller
+  - Lars Wittler
+  - Axel Visel
+  - Bernd Timmermann
+  - Axel Meyer
+  - Martin Vingron
+  - "Rafael Jim\xE9nez"
+  - Stefan Mundlos
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  publisher: Science (New York, N.Y.)
+  date: '2020-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33033216
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32025693
+  title: 'Order and disorder: abnormal 3D chromatin organization in human disease.'
+  authors:
+  - Chiara Anania
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  publisher: Briefings in functional genomics
+  date: '2020-03-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32025693
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/556761
+  title: Crowdfunded whole-genome sequencing of the celebrity cat Lil BUB identifies
+    causal mutations for her osteopetrosis and polydactyly
+  authors:
+  - Mike Bridavsky
+  - Heiner Kuhl
+  - Arthur Woodruff
+  - Uwe Kornak
+  - Bernd Timmermann
+  - Norbert Mages
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - Orsolya Symmons
+  - Daniel M. Ibrahim
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2019-02-22'
+  link: https://doi.org/gkwmzg
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.3390/genes10060415
+  title: 'A (3D-Nuclear) Space Odyssey: Making Sense of Hi-C Maps'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Irene Mota-G\xF3mez"
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: Genes
+  date: '2019-05-29'
+  link: https://doi.org/dd39
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1186/s12864-018-5376-4
+  title: 'GOPHER: Generator Of Probes for capture Hi-C Experiments at high Resolution'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Peter Hansen
+  - Salaheddine Ali
+  - Hannah Blau
+  - Daniel Danis
+  - Jochen Hecht
+  - Uwe Kornak
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  - Robin Steinhaus
+  - Peter N. Robinson
+  publisher: BMC Genomics
+  date: '2019-01-14'
+  link: https://doi.org/g9bgq7
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: pmid:30262816
+  title: Dynamic 3D chromatin architecture contributes to enhancer specificity and
+    limb morphogenesis.
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Bj\xF8rt K Kragesteen"
+  - Malte Spielmann
+  - Christina Paliou
+  - Verena Heinrich
+  - "Robert Sch\xF6pflin"
+  - Andrea Esposito
+  - Carlo Annunziatella
+  - Simona Bianco
+  - Andrea M Chiariello
+  - "Ivana Jerkovi\u0107"
+  - Izabela Harabula
+  - Philine Guckelberger
+  - Michael Pechstein
+  - Lars Wittler
+  - Wing-Lee Chan
+  - Martin Franke
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Katerina Kraft
+  - Bernd Timmermann
+  - Martin Vingron
+  - Axel Visel
+  - Mario Nicodemi
+  - Stefan Mundlos
+  - Guillaume Andrey
+  publisher: Nature genetics
+  date: '2018-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30262816
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: pmid:29692413
+  title: Structural variation in the 3D genome.
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Malte Spielmann
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  publisher: Nature reviews. Genetics
+  date: '2018-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29692413
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: pmid:29662163
+  title: Polymer physics predicts the effects of structural variants on chromatin
+    architecture.
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Simona Bianco
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Andrea M Chiariello
+  - Carlo Annunziatella
+  - Katerina Kraft
+  - "Robert Sch\xF6pflin"
+  - Lars Wittler
+  - Guillaume Andrey
+  - Martin Vingron
+  - Ana Pombo
+  - Stefan Mundlos
+  - Mario Nicodemi
+  publisher: Nature genetics
+  date: '2018-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29662163
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12864-018-5297-2
+  title: First genome-wide CNV mapping in FELIS CATUS using next generation sequencing
+    data
+  authors:
+  - F. Genova
+  - M. Longeri
+  - L. A. Lyons
+  - A. Bagnato
+  - M. G. Strillacci
+  publisher: BMC Genomics
+  date: '2018-12-01'
+  link: https://doi.org/gjcr8s
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1007738
+  title: Unraveling the transcriptional regulation of TWIST1 in limb development
+  authors:
+  - Naama Hirsch
+  - Reut Eshel
+  - Reut Bar Yaacov
+  - Tal Shahar
+  - Fania Shmulevich
+  - Idit Dahan
+  - Noam Levaot
+  - Tommy Kaplan
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - Ramon Y. Birnbaum
+  publisher: PLOS Genetics
+  date: '2018-10-29'
+  link: https://doi.org/gfjdvp
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28846100
+  title: Composition and dosage of a multipartite enhancer cluster control developmental
+    expression of Ihh (Indian hedgehog).
+  authors:
+  - Anja J Will
+  - Giulia Cova
+  - Marco Osterwalder
+  - Wing-Lee Chan
+  - Lars Wittler
+  - Norbert Brieske
+  - Verena Heinrich
+  - Jean-Pierre de Villartay
+  - Martin Vingron
+  - Eva Klopocki
+  - Axel Visel
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  publisher: Nature genetics
+  date: '2017-08-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28846100
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26862051
+  title: 'Breaking TADs: How Alterations of Chromatin Domains Result in Disease.'
+  authors:
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Malte Spielmann
+  - Stefan Mundlos
+  publisher: 'Trends in genetics : TIG'
+  date: '2016-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26862051
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26755636
+  title: Exome sequencing and CRISPR/Cas genome editing identify mutations of ZAK
+    as a cause of limb defects in humans and mice.
+  authors:
+  - Malte Spielmann
+  - Naseebullah Kakar
+  - Naeimeh Tayebi
+  - Catherine Leettola
+  - "Gudrun N\xFCrnberg"
+  - Nadine Sowada
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Izabela Harabula
+  - "Ricarda Fl\xF6ttmann"
+  - Denise Horn
+  - Wing Lee Chan
+  - Lars Wittler
+  - "R\xFCstem Yilmaz"
+  - "Janine Altm\xFCller"
+  - Holger Thiele
+  - Hans van Bokhoven
+  - Charles E Schwartz
+  - "Peter N\xFCrnberg"
+  - James U Bowie
+  - Jamil Ahmad
+  - Christian Kubisch
+  - Stefan Mundlos
+  - Guntram Borck
+  publisher: Genome research
+  date: '2016-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26755636
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25959774
+  title: Disruptions of topological chromatin domains cause pathogenic rewiring of
+    gene-enhancer interactions.
+  authors:
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Katerina Kraft
+  - Verena Heinrich
+  - Peter Krawitz
+  - Francesco Brancati
+  - Eva Klopocki
+  - Denise Horn
+  - "H\xFClya Kayserili"
+  - John M Opitz
+  - Renata Laxova
+  - Fernando Santos-Simarro
+  - Brigitte Gilbert-Dussardier
+  - Lars Wittler
+  - Marina Borschiwer
+  - Stefan A Haas
+  - Marco Osterwalder
+  - Martin Franke
+  - Bernd Timmermann
+  - Jochen Hecht
+  - Malte Spielmann
+  - Axel Visel
+  - Stefan Mundlos
+  publisher: Cell
+  date: '2015-05-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25959774
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25660031
+  title: 'Deletions, Inversions, Duplications: Engineering of Structural Variants
+    using CRISPR/Cas in Mice.'
+  authors:
+  - Katerina Kraft
+  - Sinje Geuer
+  - Anja J Will
+  - Wing Lee Chan
+  - Christina Paliou
+  - Marina Borschiwer
+  - Izabela Harabula
+  - Lars Wittler
+  - Martin Franke
+  - Daniel M Ibrahim
+  - "Bj\xF8rt K Kragesteen"
+  - Malte Spielmann
+  - Stefan Mundlos
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Guillaume Andrey
+  publisher: Cell reports
+  date: '2015-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25660031
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23946534
+  title: A microRNA (mmu-miR-124) prevents Sox9 expression in developing mouse ovarian
+    cells.
+  authors:
+  - Francisca M Real
+  - Ryohei Sekido
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Robin Lovell-Badge
+  - "Rafael Jim\xE9nez"
+  - Miguel Burgos
+  publisher: Biology of reproduction
+  date: '2013-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23946534
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23515671
+  title: 'Identification of live germ-cell desquamation as a major mechanism of seasonal
+    testis regression in mammals: a study in the Iberian mole (Talpa occidentalis).'
+  authors:
+  - Rajesh K Dadhich
+  - Francisco J Barrionuevo
+  - Francisca M Real
+  - "Dar\xEDo G Lupia\xF1ez"
+  - Esperanza Ortega
+  - Miguel Burgos
+  - "Rafael Jim\xE9nez"
+  publisher: Biology of reproduction
+  date: '2013-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23515671
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mambio.2012.08.001
+  title: Positive and negative unintended human-induced effects on Iberian mole abundance
+    at the edge of its distribution area
+  authors:
+  - "Lola Garc\xEDa-L\xF3pez de Hierro"
+  - "Marcos Mole\xF3n"
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Emilio Virg\xF3s"
+  - "Rafael Jim\xE9nez"
+  publisher: Mammalian Biology
+  date: '2013-06-01'
+  link: https://doi.org/g9bgq8
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22703538
+  title: Morphology and ultrastructure of the chorioallantoic placenta of the Iberian
+    mole (Talpa occidentalis) with special reference to heterophagous areolas and
+    the nature of interhaemal barrier.
+  authors:
+  - Swetlana Siniza
+  - "Dario G Lupia\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Ulrich Zeller
+  publisher: Journal of anatomy
+  date: '2012-06-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22703538
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22544714
+  title: Pattern and density of vascularization in mammalian testes, ovaries, and
+    ovotestes.
+  authors:
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Francisca M Real
+  - Rajesh K Dadhich
+  - Francisco D Carmona
+  - Miguel Burgos
+  - Francisco J Barrionuevo
+  - "Rafael Jim\xE9nez"
+  publisher: Journal of experimental zoology. Part B, Molecular and developmental
+    evolution
+  date: '2012-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22544714
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21412037
+  title: Expression of genes controlling testicular development in adult testis of
+    the seasonally breeding iberian mole.
+  authors:
+  - R K Dadhich
+  - F J Barrionuevo
+  - "D G Lupia\xF1ez"
+  - F M Real
+  - M Burgos
+  - "R Jim\xE9nez"
+  publisher: 'Sexual development : genetics, molecular biology, evolution, endocrinology,
+    embryology, and pathology of sex determination and differentiation'
+  date: '2011-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21412037
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19382159
+  title: SOX9 is not required for the cellular events of testicular organogenesis
+    in XX mole ovotestes.
+  authors:
+  - F David Carmona
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - Francisca M Real
+  - Miguel Burgos
+  - Federico Zurita
+  - "Rafael Jim\xE9nez"
+  publisher: Journal of experimental zoology. Part B, Molecular and developmental
+    evolution
+  date: '2009-11-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19382159
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19598120
+  title: The spatio-temporal pattern of testis organogenesis in mammals - insights
+    from the mole.
+  authors:
+  - Francisco D Carmona
+  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Jos\xE9-Ezequiel Mart\xEDn"
+  - Miguel Burgos
+  - "Rafael Jim\xE9nez"
+  - Federico Zurita
+  publisher: The International journal of developmental biology
+  date: '2009-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19598120
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:18391517
+  title: Meiosis onset is postponed to postnatal stages during ovotestis development
+    in female moles.
+  authors:
+  - F Zurita
+  - F D Carmona
+  - "D G Lupi\xE1\xF1ez"
+  - F J Barrionuevo
+  - S Guioli
+  - M Burgos
+  - "R Jim\xE9nez"
+  publisher: 'Sexual development : genetics, molecular biology, evolution, endocrinology,
+    embryology, and pathology of sex determination and differentiation'
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18391517
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.10.10.617585
