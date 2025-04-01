@@ -26,32 +26,27 @@
   type: paper
   image: images/engeneering.png
 
-
-  - id: doi:10.1038/s41467-024-47658-x 
+- id: doi:10.1038/s41467-024-47658-x 
   type: paper
   image: images/miRNA.png
 
-    - id: doi:10.1073/pnas.2413191121
+- id: doi:10.1073/pnas.2413191121
   type: paper
   image: images/trachemys.png
 
-    - id: doi:10.1016/j.gde.2022.102019 
+- id: doi:10.1016/j.gde.2022.102019 
   type: paper
   image: images/evolution3D
 
-    - id: doi:10.1038/s41588-022-01117-9
+- id: doi:10.1038/s41588-022-01117-9
   type: paper
   image: images/anania
 
-    - id: doi:10.1126/science.aaz2582 
+- id: doi:10.1126/science.aaz2582 
   type: paper
   image: images/molegenome
 
-    - id: doi:10.1101/2022.11.18.516861
+- id: doi:10.1101/2022.11.18.516861
   type: paper
   description: Currently as a preprint on BioRxiv.
   image: images/metaloci.png
-
-    - id: doi:
-  type: paper
-  image: images/
