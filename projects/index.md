@@ -18,7 +18,33 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Higlighted
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% capture col1 %}
+
+{% include citation.html lookup="doi:10.1101/2024.10.10.617585" style="rich" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include citation.html lookup="doi:10.1242/dev.201562" style="rich" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% capture col1 %}
+
+{% include citation.html lookup="doi:10.1002/jez.b.23142" style="rich" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include citation.html lookup="doi:10.1126/science.aaz2582" style="rich" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
