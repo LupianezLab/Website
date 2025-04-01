@@ -169,7 +169,7 @@
   file: sources.yaml
   type: paper
   description: Currently as a preprint on BioRxiv.
-  image: images/metaloci.png
+  image: images/biorxiv.png
 - id: pmid:36112694
   title: "C/EBP\u03B2 regulates lipid metabolism and"
   authors:
@@ -905,7 +905,7 @@
   date: '2015-02-01'
   link: https://doi.org/g9bgr8
   type: paper
-  image: images/engeneering.png
+  image: images/engineering.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-024-47658-x
@@ -974,7 +974,7 @@
   date: '2022-07-01'
   link: https://doi.org/gsvfms
   type: paper
-  image: images/anania
+  image: images/anania.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.aaz2582
