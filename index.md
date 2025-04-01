@@ -3,7 +3,7 @@
 <p class="tao-quote">
     “How can one fit 2 meters of DNA inside the nucleus of a cell?” <br>
     <span class="tao-highlight">“Simple! You just need to fold it in the right way.”</span> <br>
-    <em>            The Tao of the Genome</em>
+    <em style="font-size: 0.8em; position: absolute; bottom: 10px; right: 10px; opacity: 0.7;">The Tao of the Genome</em>
 </p>
 
 
