@@ -21,10 +21,13 @@ blockquote > :last-child {
     color: #D72638; // Bold red for impact
 }
 
+
+
 .tao-quote-container {
     position: relative;
     max-width: 80%;  /* Controls how wide the text block is */
     margin: 0 auto;  /* Centers the container */
+    font-style: italic;  /* Makes all text inside this container italic */
 }
 
 .tao-quote {
@@ -42,3 +45,4 @@ blockquote > :last-child {
     bottom: 0;
     opacity: 0.7;
 }
+
