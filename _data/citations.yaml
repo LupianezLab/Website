@@ -745,7 +745,7 @@
   date: '2016-04-01'
   link: https://doi.org/f8h9n4
   type: paper
-  image: images/breaking_tads.jpg
+  image: images/breaking_tads.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-023-05868-1
@@ -799,7 +799,7 @@
   date: '2018-04-24'
   link: https://doi.org/gdrmm3
   type: paper
-  image: images/structural_variation.png
+  image: images/structural_variation.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-018-0098-8
