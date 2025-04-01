@@ -1,27 +1,27 @@
-- id: doi:10.1101/2024.10.10.617585
+- id: doi:10.1016/j.tig.2016.01.003
   type: paper
-  description: Currently as a preprint on BioRxiv.
-  image: images/Fig-Bat-paper.png
+  image: images/breaking_tads.png
 
-- id: doi:10.1038/s41467-024-47658-x
+- id: doi:10.1038/s41586-023-05868-1 
   type: paper
-  image: images/nature-communications-logo.png
+  image: images/skate.png
   
-- id: doi:10.1242/dev.201562
+- id: doi:10.1038/s41576-018-0007-0 
   type: paper
-  image: images/Fig-Sall1-paper.png
+  image: images/structural_variation.png
 
-- id: doi:10.1002/jez.b.23142
+- id: doi:10.1038/s41588-018-0098-8 
   type: paper
-  image: images/Fig-CellAdhesion-paper.png
+  image: images/polymer_physics.png
 
-- id: doi:10.1101/2023.03.22.533123
+- id: doi:10.1038/ng.3939
   type: paper
-  description: Currently as a preprint on BioRxiv.
-  image: images/BioRxiv_logo.png
+  image: images/indian_hedgehog.png
 
-- id: doi:10.1101/2022.10.28.514220
+- id: doi:10.1016/j.cell.2015.04.004 
   type: paper
-  description: Currently as a preprint on BioRxiv.
-  image: images/BioRxiv_logo.png
-
+  image: images/disruptions.png
+  
+- id: 10.1016/j.celrep.2015.01.016 
+  type: paper
+  image: images/engeneering.png
