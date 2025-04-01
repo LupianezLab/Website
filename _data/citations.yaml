@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,140 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1101/2024.10.10.617585
+  title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
+    gene program in bat wing development
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Magdalena Schindler
+  - Christian Feregrino
+  - Silvia Aldrovandi
+  - Bai-Wei Lo
+  - Anna A. Monaco
+  - Alessa R. Ringel
+  - Ariadna Morales
+  - Tobias Zehnder
+  - Rose Yinghan Behncke
+  - Juliane Glaser
+  - Alexander Barclay
+  - Guillaume Andrey
+  - "Bj\xF8rt K. Kragesteen"
+  - "Ren\xE9 H\xE4gerling"
+  - Stefan Haas
+  - Martin Vingron
+  - Igor Ulitsky
+  - Marc Marti-Renom
+  - Julio Hechavarria
+  - Nicolas Fasel
+  - Michael Hiller
+  - "Dar\xEDo Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  - Francisca M. Real
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-13'
+  link: https://doi.org/g8739d
+  type: paper
+  description: Currently as a preprint on BioRxiv.
+  image: images/Fig-Bat-paper.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1038/s41467-024-47658-x
+  title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Alicia Hurtado
+  - "Irene Mota-G\xF3mez"
+  - Miguel Lao
+  - Francisca M. Real
+  - Johanna Jedamzick
+  - Miguel Burgos
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J. Barrionuevo
+  publisher: Nature Communications
+  date: '2024-05-07'
+  link: https://doi.org/gtt7wc
+  type: paper
+  image: images/nature-communications-logo.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1242/dev.201562
+  title: Induction of kidney-related gene programs through co-option of <i>SALL1</i>
+    in mole ovotestes
+  authors:
+  - Magdalena Schindler
+  - Marco Osterwalder
+  - Izabela Harabula
+  - Lars Wittler
+  - Athanasia C. Tzika
+  - Dina K. N. Dechmann
+  - Martin Vingron
+  - Axel Visel
+  - Stefan A. Haas
+  - Francisca M. Real
+  publisher: Development
+  date: '2023-09-01'
+  link: https://doi.org/g8739f
+  type: paper
+  image: images/Fig-Sall1-paper.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jez.b.23142
+  title: Cell adhesion and immune response, two main functions altered in the transcriptome
+    of seasonally regressed testes of two mammalian species
+  authors:
+  - Francisca M. Real
+  - "Miguel Lao\u2010P\xE9rez"
+  - Miguel Burgos
+  - Stefan Mundlos
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J. Barrionuevo
+  publisher: 'Journal of Experimental Zoology Part B: Molecular and Developmental
+    Evolution'
+  date: '2022-05-10'
+  link: https://doi.org/gszg3b
+  type: paper
+  image: images/Fig-CellAdhesion-paper.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.03.22.533123
+  title: "Complete male-to-female sex reversal in XY mice lacking the<i>miR-17\u223C\
+    92</i>cluster"
+  authors:
+  - Alicia Hurtado
+  - "Irene Mota-G\xF3mez"
+  - Miguel Lao
+  - Francisca M. Real
+  - Johanna Jedamzick
+  - Miguel Burgos
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J. Barrionuevo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-23'
+  link: https://doi.org/g8739g
+  type: paper
+  description: Currently as a preprint on BioRxiv.
+  image: images/BioRxiv_logo.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.10.28.514220
+  title: Co-option of the transcription factor<i>SALL1</i>in mole ovotestis formation
+  authors:
+  - Magdalena Schindler
+  - Marco Osterwalder
+  - Izabela Harabula
+  - Lars Wittler
+  - Athanasia C. Tzika
+  - Dina Dechmann
+  - Martin Vingron
+  - Axel Visel
+  - Stefan Haas
+  - Francisca M. Real
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-28'
+  link: https://doi.org/gs2cj8
+  type: paper
+  description: Currently as a preprint on BioRxiv.
+  image: images/BioRxiv_logo.png
   plugin: sources.py
   file: sources.yaml
