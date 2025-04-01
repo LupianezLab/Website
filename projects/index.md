@@ -53,8 +53,6 @@ nav:
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html %}
-
 {% capture col1 %}
 
 {% include citation.html lookup="doi:10.1016/j.cell.2015.04.004" style="rich" %} <!--disruptions-->
