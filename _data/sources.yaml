@@ -24,7 +24,7 @@
   
 - id: doi:10.1016/j.celrep.2015.01.016 
   type: paper
-  image: images/engeneering.png
+  image: images/engineering.png
 
 - id: doi:10.1038/s41467-024-47658-x 
   type: paper
@@ -40,7 +40,7 @@
 
 - id: doi:10.1038/s41588-022-01117-9
   type: paper
-  image: images/anania
+  image: images/anania.png
 
 - id: doi:10.1126/science.aaz2582 
   type: paper
@@ -49,4 +49,4 @@
 - id: doi:10.1101/2022.11.18.516861
   type: paper
   description: Currently as a preprint on BioRxiv.
-  image: images/metaloci.png
+  image: images/biorxiv.png
