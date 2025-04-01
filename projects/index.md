@@ -1,8 +1,8 @@
 ---
 title: Publications
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: Selected works
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
