@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Main Research Lines
 ---
 ##  3D CHROMATIN ORGANIZATION
 
