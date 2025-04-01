@@ -4,9 +4,10 @@ nav:
   order: 1
   tooltip: Main Research Lines
 ---
-##  3D CHROMATIN ORGANIZATION
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+
+##  3D CHROMATIN ORGANIZATION
 
 To trigger gene expression, regulatory elements are physically brought into the vicinity of promoters in a process called “looping”. Although the process of gene transcription has been largely studied, the principles of how regulatory elements engage in loops and find their appropriate partner, often ignoring other nearby genes, are still largely unknown.
 
