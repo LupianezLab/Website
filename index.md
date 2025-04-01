@@ -15,7 +15,7 @@ Our laboratory is interested in this beautiful but complex question. In other wo
 
 {% capture text %}
 
-Our methodology employs approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
+Our research is based on approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
 {%
   include button.html
   link="research"
@@ -37,7 +37,7 @@ Our methodology employs approaches to map 3D chromatin structures and regulatory
 
 {% capture text %}
 
-Our projects focus on two key areas: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
+Our projects focus on two key lines of research: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
 {%
   include button.html
   link="projects"
@@ -60,8 +60,7 @@ Our projects focus on two key areas: the developmental principles of 3D chromati
 %}
 
 {% capture text %}
-
-Our lab brings together researchers from diverse scientific backgrounds, working at both experimental and computational levels. Get to know our team—PhD students, postdocs, technicians, and more—who contribute to our dynamic research environment.
+Meet our team—PhD students, postdocs, and more—driving a dynamic research working at both experimental and computational levels.
 {%
   include button.html
   link="team"
