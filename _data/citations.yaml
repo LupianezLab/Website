@@ -924,7 +924,7 @@
   date: '2024-05-07'
   link: https://doi.org/gtt7wc
   type: paper
-  image: images/miRNA.png
+  image: images/miRNA.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.2413191121
