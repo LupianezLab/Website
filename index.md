@@ -1,10 +1,13 @@
 ---
 ---
-<p class="tao-quote">
-    “How can one fit 2 meters of DNA inside the nucleus of a cell?” <br>
-    <span class="tao-highlight">“Simple! You just need to fold it in the right way.”</span> <br>
-    <em style="font-size: 0.8em; position: absolute; bottom: 10px; right: 10px; opacity: 0.7;">The Tao of the Genome</em>
-</p>
+<div class="tao-quote-container">
+    <p class="tao-quote">
+        “How can one fit 2 meters of DNA inside the nucleus of a cell?” <br>
+        <span class="tao-highlight">“Simple! You just need to fold it in the right way.”</span> <br>
+    </p>
+    <em class="tao-signature">The Tao of the Genome</em>
+</div>
+
 
 
 Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is determined and maintained and how this information is encoded in vertebrate genomes.
@@ -115,7 +118,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 
 {%
   include figure.html
-  image="images/Maeztu.png"
+  image="images/Junta_logo.png"
 %}
 
 {% endcapture %}
@@ -124,7 +127,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 
 {%
   include figure.html
-  image="images/AEinvest.png"
+  image="images/Maeztu.png"
 %}
 
 {% endcapture %}
@@ -133,7 +136,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 
 {%
   include figure.html
-  image="images/Junta_logo.png"
+  image="images/AEinvest.png"
 %}
 
 {% endcapture %}
