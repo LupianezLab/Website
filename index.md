@@ -1,9 +1,5 @@
 ---
 ---
-
-# LupianezLab's Website
-
-
 <p class="tao-quote">
     “How do you fit 2 meters of DNA inside a tiny nucleus?” <br>
     <span class="tao-highlight">“Simple—just fold it the right way.”</span> <br>
