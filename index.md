@@ -10,7 +10,7 @@
 
 
 
-Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is determined and maintained and how this information is encoded in vertebrate genomes.
+Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is set and maintained, and how this information is encoded in vertebrate genomes.
 
 {% include section.html %}
 
