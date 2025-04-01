@@ -1,6 +1,5 @@
 - id: doi:10.1016/j.tig.2016.01.003
   type: paper
-  image: images/breaking_tads.png
   image: ![breaking_tads](images/breaking_tads.png){:style="width:200px; height:auto;"}
 
 - id: doi:10.1038/s41586-023-05868-1 
