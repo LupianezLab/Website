@@ -14,3 +14,15 @@ blockquote > :first-child {
 blockquote > :last-child {
   margin-bottom: 0;
 }
+.tao-quote {
+    font-family: 'Poppins', sans-serif; // Modern, clean font
+    font-size: 24px;
+    color: #2E3A59; // Dark blue
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tao-highlight {
+    font-weight: 600;
+    color: #D72638; // Bold red for impact
+}
