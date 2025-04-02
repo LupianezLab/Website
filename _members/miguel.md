@@ -1,7 +1,7 @@
 ---
 name: Miguel La Iglesia Mirones
 image: images/miguel.jpg
-role: PhD
+role: phd
 links:
   email:
 ---
