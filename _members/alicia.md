@@ -2,7 +2,6 @@
 name: Alicia Hurtado Madrid
 image: images/alicia.jpg
 role: postdoc
-group: alum
 links:
   email:
 ---
