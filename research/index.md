@@ -30,3 +30,13 @@ Although the outcome of sex determination is conserved across species, the mecha
 In ongoing projects, we aim to understand the molecular sources of the evolutionary plasticity of sex determination. For this purpose, we are profiling and comparing the process of sex determination in a wide range of vertebrate species to identify sources of genomic and regulatory variation. We are particularly interested in evaluating the potential role of 3D chromatin organization ([Mota-Gómez et al., 2022](https://www.biorxiv.org/content/10.1101/2022.11.18.516861v1)) and identifying novel regulators of sex determination ([Hurtado et al., 2023](https://www.nature.com/articles/s41467-024-47658-x)).
 
 {% include section.html %}
+
+##  METHODS
+Here you can know about the relevant methodology of the lab:
+
+- Single-cell omics (scRNA-seq, scATAC-seq)
+- Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)
+- Identification of regulatory elements (ChiP-seq, ATAC-seq)
+- Genome editing (CRISPR/Cas on mouse ES cells)
+- Generation of transgenic animals (tetraploid complementation assay)
+
