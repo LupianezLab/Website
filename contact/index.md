@@ -7,27 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+We are located at the Andalusian Center for Developmental Biology (CABD), within the Department of Gene Regulation and Morphogenesis. CABD has been recognized for research excellence with the María de Maeztu distinction (2017–2021, 2022–2026) and is located on the campus of Universidad Pablo de Olavide (UPO), surrounded by a dynamic scientific community of university faculties and research centers. Our group is affiliated to the Spanish National Research Council (CSIC). You can find us on the first floor of CABD, in Lab 110!
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="dario.lupianez@csic.es"
+  link="dario.lupianez@csic.es"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/ttV6ftSKTy1uRBqx9"
 %}
 
 {% include section.html %}
@@ -36,8 +28,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/catedral.jpg"
+  caption="La Catedral de Sevilla"
 %}
 
 {% endcapture %}
@@ -46,32 +38,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cabd2.jpg"
+  caption="Centro Andaluz de Biología del Desarrollo (CABD)"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
