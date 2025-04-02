@@ -1,6 +1,6 @@
 ---
 name: Iván Barbera Aura
-image: images/ivan.jpg
+image: images/ivan.jpeg
 role: phd
 group: alum
 links:
