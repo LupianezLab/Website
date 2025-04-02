@@ -1,7 +1,7 @@
 ---
 name: Keren Elizabeth Yam Duarte
 image: images/keren.jpg
-role: PhD
+role: phd
 links:
   email:
 ---
