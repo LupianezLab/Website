@@ -1,7 +1,7 @@
 ---
 name: Iván Barbera Aura
 image: images/ivan.jpg
-role: PhD
+role: phd
 links:
   email:
 ---
