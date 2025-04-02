@@ -29,7 +29,7 @@ We are located at the Andalusian Center for Developmental Biology (CABD), within
 {%
   include figure.html
   image="images/catedral.jpg"
-  caption="The Cathedral of Seville"
+  caption="Seville"
 %}
 
 {% endcapture %}
