@@ -2,6 +2,7 @@
 name: Rafael Domínguez Acemel
 image: images/rafa.jpg
 role: postdoc
+group: alum
 links:
   email:
 ---
