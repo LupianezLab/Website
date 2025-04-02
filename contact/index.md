@@ -29,7 +29,7 @@ We are located at the Andalusian Center for Developmental Biology (CABD), within
 {%
   include figure.html
   image="images/catedral.jpg"
-  caption="La Catedral de Sevilla"
+  caption="The Cathedral of Seville"
 %}
 
 {% endcapture %}
@@ -39,7 +39,7 @@ We are located at the Andalusian Center for Developmental Biology (CABD), within
 {%
   include figure.html
   image="images/cabd2.jpg"
-  caption="Centro Andaluz de Biología del Desarrollo (CABD)"
+  caption="Andalusian Center for Developmental Biology (CABD)"
 %}
 
 {% endcapture %}
