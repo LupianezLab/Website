@@ -1,6 +1,6 @@
 ---
 name: Darío G. Lupiáñez
-image: images/photo.jpg
+image: images/dario.jpg
 role: principal-investigator
 aliases:
   - Darío G. Lupiáñez
