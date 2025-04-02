@@ -18,11 +18,12 @@ Our laboratory is interested in this beautiful but complex question. In other wo
 
 {% capture text %}
 
-Our research uses approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo.
+Our research uses approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo. We carry out two key lines of research: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
+
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,33 +33,9 @@ Our research uses approaches to map 3D chromatin structures and regulatory eleme
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/research.jpg"
+  link=""
   title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Our projects focus on two key lines of research: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
@@ -80,6 +57,29 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
   image="images/team.jpeg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+{%
+  include button.html
+  link="projects"
+  text="Browse Our Publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/publications.jpg"
+  link="projects"
+  title="Our Publications"
+  flip=true
+  style="bare"
   text=text
 %}
 
