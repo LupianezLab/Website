@@ -45,5 +45,10 @@
     max-width: 400px;
   }
 }
+.feature-image_small {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
 
 /*# sourceMappingURL=feature.css.map */
