@@ -1014,6 +1014,6 @@
   date: '2020-10-09'
   link: https://doi.org/grprk6
   type: paper
-  image: images/molegenome
+  image: images/molegenome.png
   plugin: sources.py
   file: sources.yaml
