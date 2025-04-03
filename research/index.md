@@ -43,6 +43,7 @@ Discover the daily techniques and methodologies we use in our lab:
 {%
   include feature.html
   image="images/umap.jpg"
+  style="display: block; margin: auto; width: 50%;"
 %}
 
 - Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)
