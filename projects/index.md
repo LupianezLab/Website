@@ -68,3 +68,10 @@ nav:
 
 {% include cols.html col1=col1 col2=col2 %}
 
+{% capture col1 %}
+
+{% include citation.html lookup="doi:10.1016/j.celrep.2015.01.016" style="rich" %} <!--engeneering-->
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}
