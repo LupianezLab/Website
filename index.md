@@ -39,26 +39,6 @@ Our research uses approaches to map 3D chromatin structures and regulatory eleme
   text=text
 %}
 
-{% capture text %}
-Meet our team—PhD students, postdocs, and more—driving a dynamic research working at both experimental and computational levels.
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team.jpeg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% capture text %}
 Find out our highlighted published works!
@@ -80,6 +60,27 @@ Find out our highlighted published works!
   title="Our Publications"
   flip=true
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+Meet our team—PhD students, postdocs, and more—driving a dynamic research working at both experimental and computational levels.
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/team.jpeg"
+  link="team"
+  title="Our Team"
   text=text
 %}
 
