@@ -1,7 +1,7 @@
 ---
 title: New Section
 nav:
-  order: 4
+  order: 6
   tooltip: Learn more about this topic
 ---
 
