@@ -33,7 +33,7 @@ Our research uses approaches to map 3D chromatin structures and regulatory eleme
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/ivan_umap.jpg"
   link=""
   title="Our Research"
   text=text
@@ -75,7 +75,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 
 {%
   include feature.html
-  image="images/publications.jpg"
+  image="images/skate.png"
   link="projects"
   title="Our Publications"
   flip=true
