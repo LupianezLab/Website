@@ -35,10 +35,12 @@ In ongoing projects, we aim to understand the molecular sources of the evolution
 Here you can know about the relevant methodology of the lab:
 
 - Single-cell omics (scRNA-seq, scATAC-seq)
-- <details>
+<details>
   <summary>Single-cell omics</summary>
-  Here is more information that appears when you click.
+  <p>Here is more information that appears when you click.</p>
+  <img src="images/miguel.jpeg" alt="Single-cell omics" width="400">
 </details>
+
 - Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)
 - Identification of regulatory elements (ChiP-seq, ATAC-seq)
 - Genome editing (CRISPR/Cas on mouse ES cells)
