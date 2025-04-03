@@ -75,7 +75,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 
 {%
   include feature.html
-  image="images/skate.png"
+  image="images/skate2.jpg"
   link="projects"
   title="Our Publications"
   flip=true
