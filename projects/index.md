@@ -33,12 +33,11 @@ nav:
 
 {% capture col2 %}
 
-{% include citation.html lookup="doi:10.1126/science.aaz258" style="rich" %} <!--mole-->
+{% include citation.html lookup="doi:10.1126/science.aaz2582" style="rich" %} <!--mole-->
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
 
 {% capture col1 %}
 
@@ -55,7 +54,6 @@ nav:
 
 {% include cols.html col1=col1 col2=col2 %}
 
-
 {% capture col1 %}
 
 {% include citation.html lookup="doi:10.1016/j.tig.2016.01.003" style="rich" %} <!--breaking tads-->
@@ -69,14 +67,4 @@ nav:
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% capture col1 %}
-
-{% include citation.html lookup="doi:10.1016/j.celrep.2015.01.016" style="rich" %} <!--engeneering-->
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html %}
 
