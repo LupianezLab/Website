@@ -40,10 +40,10 @@ In ongoing projects, we aim to understand the molecular sources of the evolution
 Discover the daily techniques and methodologies we use in our lab:
 
 - Single-cell omics (scRNA-seq, scATAC-seq)
-  {%
-    include feature.html
-    image="images/umap.jpg"
-  %}
+{%
+  include feature.html
+  image="images/umap.jpg"
+%}
 
 - Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)
   The development of Chromosome Conformation Capture (3C) made possible the study of the 3D architecture of the genome by quantifying chromatin looping via a proximity ligation assay. This has greatly expanded our knowledge about gene regulation unfolding basic principles of genomic organization such as the existence of Topologically Associating Domains (TADs).
