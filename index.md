@@ -61,7 +61,7 @@ Meet our team—PhD students, postdocs, and more—driving a dynamic research wo
 %}
 
 {% capture text %}
-
+Find out our highlighted published works!
 {%
   include button.html
   link="projects"
