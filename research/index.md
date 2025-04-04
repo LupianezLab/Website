@@ -45,26 +45,25 @@ Discover the daily techniques and methodologies we use in our lab:
 - Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)
   The development of Chromosome Conformation Capture (3C) made possible the study of the 3D architecture of the genome by quantifying chromatin looping via a proximity ligation assay. This has greatly expanded our knowledge about gene regulation unfolding basic principles of genomic organization such as the existence of Topologically Associating Domains (TADs).
   In our lab, we use specific derivatives of the original technique to identify all  interacting partners of a specific locus across the genome (4C-seq) or to study every possible contact happening in the nucleus (Hi-C). In addition, we couple C-technologies oligo-based capture technology to investigate multiple loci in the same experiment (Promoter Capture-C) or to create high-resolution interaction maps of large genomic regions (Capture Hi-C).
-  {%
-  include feature.html
-  image="images/captureC.png"
+{%
+include feature.html
+image="images/captureC.png"
 %}
 - Identification of regulatory elements (ChiP-seq, ATAC-seq)
   We use a combinatorial approach to identify regulatory elements. In a first instance, we generate ChIP-seq datasets in a specific tissue for the histone marks H3k4me1 (marking enhancers), H3K4me3 (promoters), H3K27Ac (active) and H3K27me3 (repressed). We complements this with ATAC-seq datasets to identify open chromatin regions as well as mammalian conservation. Altogether, we use this information to segment the genome into functional categories for the studied tissue using EpiCSeg ([Mammana et al., 2015](https://www.biorxiv.org/content/10.1101/2022.11.18.516861v1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0708-z)). Regulatory elements (more specifically enhancers) are then evaluated for their reporter activity in vivo or functionally tested via genome editing.
-  {%
-  include feature.html
-  image="images/reg_elements1.jpg"
+{%
+include feature.html
+image="images/reg_elements1.jpg"
 %}
 - Genome editing (CRISPR/Cas on mouse ES cells)
   The recent adaptation of the bacterial immune system CRISPR/Cas9 for genome engineering has revolutionized the field of genetics by allowing a fast, cheap and precise tool to manipulate genomes. Recently we reported our own adaptation of this system to generate mice carrying structural variations, like deletions, duplications or inversions, ranging from hundreds bp to a few megabases (Kraft et al., 2015). In our system, mouse embryonic stem cells (mESC) are transfected with plasmids coexpressing the endonuclease Cas9 and specific guides RNAs flanking the region where the rearrangement has to be induced. We have successfully applied this method in several loci to create mouse models for human disease ([Lupiáñez et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25959774/); [Spielmann et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26755636/)). In summary our CRISPR/Cas9 system provides a valuable, fast and reliable tool to systematically manipulate selected loci.
-  {%
-  include feature.html
-  image="images/crispr1.jpg"
+{%
+include feature.html
+image="images/crispr1.jpg"
 %}
 - Generation of transgenic animals (tetraploid complementation assay)
   We use our CRISPR-edited mouse ES cells to generate mutant mice via tetraploid complementation assay. This technology, in contrast to other methods (see picture), allows the generation of embryonic litters with isogenic genotypes and ensures a nearly 100% contribution of our mutant cells in the resulting embryo. This allows the direct phenotypical analysis of the resulting F0 animals, thus avoiding breeding steps, generation of stable lines and drastically reducing the number of animals required.
-  {%
-  include feature.html
-  image="images/escells.jpg"
+{%
+include feature.html
+image="images/escells.jpg"
 %}
-
