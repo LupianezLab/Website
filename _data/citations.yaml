@@ -799,7 +799,7 @@
   date: '2018-04-24'
   link: https://doi.org/gdrmm3
   type: paper
-  image: images/structural_variation.jpg
+  image: images/structural_variation3.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41588-018-0098-8
