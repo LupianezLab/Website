@@ -76,7 +76,7 @@ Find out our highlighted published works!
 
 {%
   include feature.html
-  image="images/skate2.jpg"
+  image="images/skate3.jpg"
   link="projects"
   title="Our Publications"
   style="bare"
