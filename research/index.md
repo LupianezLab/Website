@@ -42,7 +42,7 @@ Discover the daily techniques and methodologies we use in our lab:
 <details>
   <summary><strong>Single-cell omics (scRNA-seq, scATAC-seq)</strong></summary>
   <p style="text-align: center;">
-    <img src="images/umap.jpg" style="width: 300px; height: auto; border-radius: 10px;" />
+    <img src="../images/umap.jpg" style="width: 300px; height: auto; border-radius: 10px;" />
   </p>
   <p>We apply single-cell RNA-seq and ATAC-seq to dissect gene expression and chromatin accessibility at the single-cell level, enabling the reconstruction of cell-type-specific regulatory landscapes.</p>
 </details>
@@ -52,7 +52,7 @@ Discover the daily techniques and methodologies we use in our lab:
 <details>
   <summary><strong>Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)</strong></summary>
   <p style="text-align: center;">
-    <img src="images/captureC.png" style="width: 400px; height: auto; border-radius: 10px;" />
+    <img src="../images/captureC.png" style="width: 400px; height: auto; border-radius: 10px;" />
   </p>
   <p>The development of Chromosome Conformation Capture (3C) made it possible to study the 3D architecture of the genome by quantifying chromatin looping. We use 4C-seq, Hi-C, and targeted methods like Capture-C and Promoter Capture-C to map chromatin interactions and investigate genome organization in detail.</p>
 </details>
@@ -62,7 +62,7 @@ Discover the daily techniques and methodologies we use in our lab:
 <details>
   <summary><strong>Identification of regulatory elements (ChIP-seq, ATAC-seq)</strong></summary>
   <p style="text-align: center;">
-    <img src="images/reg_elements1.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
+    <img src="../images/reg_elements1.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
   </p>
   <p>We combine ChIP-seq and ATAC-seq to identify enhancers and promoters. Histone modifications (H3K4me1, H3K27Ac, etc.) and chromatin accessibility are integrated with tools like EpiCSeg to segment the genome into functional categories.</p>
 </details>
@@ -72,7 +72,7 @@ Discover the daily techniques and methodologies we use in our lab:
 <details>
   <summary><strong>Genome editing (CRISPR/Cas9 on mouse ES cells)</strong></summary>
   <p style="text-align: center;">
-    <img src="images/engineering.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
+    <img src="../images/engineering.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
   </p>
   <p>We use CRISPR/Cas9 to generate structural variants (deletions, duplications, inversions) in mouse embryonic stem cells. These engineered cells allow us to model human diseases with high precision ([Lupiáñez et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25959774/)).</p>
 </details>
@@ -82,7 +82,7 @@ Discover the daily techniques and methodologies we use in our lab:
 <details>
   <summary><strong>Generation of transgenic animals (tetraploid complementation assay)</strong></summary>
   <p style="text-align: center;">
-    <img src="images/escells.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
+    <img src="../images/escells.jpg" style="width: 400px; height: auto; border-radius: 10px;" />
   </p>
   <p>We generate mutant mice directly from CRISPR-edited ES cells using tetraploid complementation. This method produces embryos with nearly 100% contribution from edited cells, enabling immediate phenotypic analysis without breeding steps.</p>
 </details>
