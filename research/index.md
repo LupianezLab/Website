@@ -40,12 +40,14 @@ In ongoing projects, we aim to understand the molecular sources of the evolution
 Discover the daily techniques and methodologies we use in our lab:
 
 <details>
-  <summary><strong>Single-cell omics (scRNA-seq, scATAC-seq)</strong></summary>
+  <summary>
+    <img src="../images/umap.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 4px;" />
+    <strong>Single-cell omics (scRNA-seq, scATAC-seq)</strong>
+  </summary>
   <p>We apply single-cell RNA-seq and ATAC-seq to dissect gene expression and chromatin accessibility at the single-cell level, enabling the reconstruction of cell-type-specific regulatory landscapes.</p>
-  <p style="text-align: center;">
-    <img src="../images/umap.jpg" style="width: 300px; height: auto; border-radius: 10px; margin-top: 10px;" />
-  </p>
+
 </details>
+
 
 ---
 
@@ -53,9 +55,7 @@ Discover the daily techniques and methodologies we use in our lab:
   <summary><strong>Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)</strong></summary>
   <p>The development of Chromosome Conformation Capture (3C) made possible the study of the 3D architecture of the genome by quantifying chromatin looping via a proximity ligation assay. This has greatly expanded our knowledge about gene regulation unfolding basic principles of genomic organization such as the existence of Topologically Associating Domains (TADs).  
   In our lab, we use specific derivatives of the original technique to identify all interacting partners of a specific locus across the genome (4C-seq) or to study every possible contact happening in the nucleus (Hi-C). In addition, we couple C-technologies oligo-based capture technology to investigate multiple loci in the same experiment (Promoter Capture-C) or to create high-resolution interaction maps of large genomic regions (Capture Hi-C).</p>
-  <p style="text-align: center;">
-    <img src="../images/captureC.png" style="width: 400px; height: auto; border-radius: 10px; margin-top: 10px;" />
-  </p>
+
 </details>
 
 ---
@@ -64,7 +64,7 @@ Discover the daily techniques and methodologies we use in our lab:
   <summary><strong>Identification of regulatory elements (ChIP-seq, ATAC-seq)</strong></summary>
   <p>We use a combinatorial approach to identify regulatory elements. In a first instance, we generate ChIP-seq datasets in a specific tissue for the histone marks H3k4me1 (marking enhancers), H3K4me3 (promoters), H3K27Ac (active) and H3K27me3 (repressed). We complement this with ATAC-seq datasets to identify open chromatin regions as well as mammalian conservation. Altogether, we use this information to segment the genome into functional categories for the studied tissue using EpiCSeg (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0708-z" target="_blank">Mammana et al., 2015</a>). Regulatory elements (more specifically enhancers) are then evaluated for their reporter activity in vivo or functionally tested via genome editing.</p>
   <p style="text-align: center;">
-    <img src="../images/reg_elements1.jpg" style="width: 400px; height: auto; border-radius: 10px; margin-top: 10px;" />
+    <img src="../images/reg_elements1.jpg" style="width: 520px; height: auto; border-radius: 10px; margin-top: 10px;" />
   </p>
 </details>
 
@@ -74,7 +74,7 @@ Discover the daily techniques and methodologies we use in our lab:
   <summary><strong>Genome editing (CRISPR/Cas on mouse ES cells)</strong></summary>
   <p>The recent adaptation of the bacterial immune system CRISPR/Cas9 for genome engineering has revolutionized the field of genetics by allowing a fast, cheap and precise tool to manipulate genomes. Recently we reported our own adaptation of this system to generate mice carrying structural variations, like deletions, duplications or inversions, ranging from hundreds bp to a few megabases (Kraft et al., 2015). In our system, mouse embryonic stem cells (mESC) are transfected with plasmids coexpressing the endonuclease Cas9 and specific guides RNAs flanking the region where the rearrangement has to be induced. We have successfully applied this method in several loci to create mouse models for human disease (<a href="https://pubmed.ncbi.nlm.nih.gov/25959774/" target="_blank">Lupiáñez et al., 2015</a>); <a href="https://pubmed.ncbi.nlm.nih.gov/26755636/" target="_blank">Spielmann et al., 2016</a>. In summary our CRISPR/Cas9 system provides a valuable, fast and reliable tool to systematically manipulate selected loci.</p>
   <p style="text-align: center;">
-    <img src="../images/reg_elements1.jpg" style="width: 480px; height: auto; border-radius: 10px; margin-top: 10px;" />  </p>
+    <img src="../images/engineering.jpg" style="width: 400px; height: auto; border-radius: 10px; margin-top: 10px;" />  </p>
 </details>
 
 ---
