@@ -41,7 +41,7 @@ Discover the daily techniques and methodologies we use in our lab:
 
 <details>
   <summary>
-    <img src="../images/umap.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px;" />    
+    <img src="../images/umap.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px; position: relative; top: 2px;" />
     <strong>Single-cell omics (scRNA-seq, scATAC-seq)</strong>
   </summary>
   <p>We apply single-cell RNA-seq and ATAC-seq to dissect gene expression and chromatin accessibility at the single-cell level, enabling the reconstruction of cell-type-specific regulatory landscapes.</p>
