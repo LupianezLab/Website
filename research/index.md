@@ -61,7 +61,7 @@ Discover the daily techniques and methodologies we use in our lab:
 ---
 
 <details>
-    <summary>
+  <summary>
     <i class="fas fa-chevron-down" style="margin-right: 10px;"></i><strong>Identification of regulatory elements (ChIP-seq, ATAC-seq)</strong>
   </summary>
   <p>We use a combinatorial approach to identify regulatory elements. In a first instance, we generate ChIP-seq datasets in a specific tissue for the histone marks H3k4me1 (marking enhancers), H3K4me3 (promoters), H3K27Ac (active) and H3K27me3 (repressed). We complement this with ATAC-seq datasets to identify open chromatin regions as well as mammalian conservation. Altogether, we use this information to segment the genome into functional categories for the studied tissue using EpiCSeg (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0708-z" target="_blank">Mammana et al., 2015</a>). Regulatory elements (more specifically enhancers) are then evaluated for their reporter activity in vivo or functionally tested via genome editing.</p>
