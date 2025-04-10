@@ -40,7 +40,7 @@ We combine 3D chromatin mapping, regulatory element analysis, and cutting-edge g
 %}
 
 {% capture text %}
-Meet our team driving a dynamic research at both experimental and computational levels!
+Meet our team driving dynamic research at experimental and computational fronts!
 {%
   include button.html
   link="team"
