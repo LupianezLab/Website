@@ -10,7 +10,7 @@
 
 
 
-Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cellular fate is set and maintained, and how this information is encoded in vertebrate genomes.
+Our laboratory is interested in this beautiful but complex question. In other words, we seek to understand gene regulation in the context of a 3D genome. Using in vivo models, we aim to decipher how cell fate is set, maintained, and encoded in vertebrate genomes.
 
 {% include section.html %}
 
@@ -18,7 +18,7 @@ Our laboratory is interested in this beautiful but complex question. In other wo
 
 {% capture text %}
 
-Our research uses approaches to map 3D chromatin structures and regulatory elements, as well as cutting-edge genome editing technologies. This combination of methods allows us to define 3D regulatory landscapes with accuracy and assess their functionality in vivo. We carry out two key lines of research: the developmental principles of 3D chromatin organization and the mechanisms underlying vertebrate sex determination.
+We combine 3D chromatin mapping, regulatory element analysis, and cutting-edge genome editing to precisely define regulatory landscapes and test their function in vivo!
 
 {%
   include button.html
@@ -40,7 +40,7 @@ Our research uses approaches to map 3D chromatin structures and regulatory eleme
 %}
 
 {% capture text %}
-Meet our team—PhD students, postdocs, and more—driving a dynamic research working at both experimental and computational levels.
+Meet our team driving a dynamic research at both experimental and computational levels!
 {%
   include button.html
   link="team"
