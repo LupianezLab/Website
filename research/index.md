@@ -53,7 +53,7 @@ Discover the daily techniques and methodologies we use in our lab:
 
 <details>
   <summary>
-    <img src="../images/tad.png" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px; position: relative; top: 2px;" />
+    <img src="../images/tad5.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 8px; border-radius: 3px; position: relative; top: 2px;" />
     <strong>Quantification of chromatin interactions (4C-seq, Hi-C, capture-Hi-C, promoter capture-C)</strong>
   </summary>
   
