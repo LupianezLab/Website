@@ -1,6 +1,6 @@
 ---
 name: Carla Jiménez Medina
-image: images/carla.jpeg
+image: images/carla.png
 role: technician
 group: alum
 links:
