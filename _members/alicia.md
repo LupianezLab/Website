@@ -1,5 +1,5 @@
 ---
-name: Alicia Hurtado Madrid
+name: Alicia Hurtado
 image: images/alicia.jpeg
 role: postdoc
 links:
