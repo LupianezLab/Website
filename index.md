@@ -19,7 +19,7 @@ Our laboratory is interested in this beautiful but complex question. In other wo
 {% capture text %}
 
 We combine 3D chromatin mapping, regulatory element analysis, and cutting-edge genome editing to precisely define regulatory landscapes and test their function in vivo!
-<image href="tad_guay.jpg" width="120" height="104" class="jump"/>
+<image href="tad_guay.png" width="120" height="104" class="jump"/>
 
 {%
   include button.html
