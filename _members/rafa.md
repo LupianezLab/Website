@@ -1,5 +1,5 @@
 ---
-name: Rafael Domínguez Acemel
+name: Rafael D. Acemel
 image: images/rafa.jpg
 role: postdoc
 links:
