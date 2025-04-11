@@ -33,7 +33,7 @@ We combine 3D chromatin mapping, regulatory element analysis, and cutting-edge g
 
 {%
   include feature.html
-  image="images/frog(1).jpeg"
+  image="keren_limbb.jpg"
   link=""
   title="Our Research"
   text=text
