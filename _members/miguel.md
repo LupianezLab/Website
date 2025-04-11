@@ -1,5 +1,5 @@
 ---
-name: Miguel La Iglesia Mirones
+name: Miguel La Iglesia
 image: images/miguel(2).jpeg
 role: phd
 group: alum
