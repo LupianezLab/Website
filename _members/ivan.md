@@ -1,5 +1,5 @@
 ---
-name: Iván Barbera
+name: Iván Barbera Aura
 image: images/ivan.jpeg
 role: phd
 group: alum
