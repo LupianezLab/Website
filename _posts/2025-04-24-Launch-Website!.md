@@ -1,4 +1,4 @@
 ---
 title: Our website is launched!
-image: images/now.jpg
+image: images/now.png
 ---
