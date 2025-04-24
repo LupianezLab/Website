@@ -1,5 +1,58 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:39793067
+  title: Gonadal sex and temperature independently influence germ cell differentiation
+    and meiotic progression in
+  authors:
+  - Talia Hatkevich
+  - Boris M Tezak
+  - Rafael D Acemel
+  - Vicky Wai Yee Chung
+  - "Dario G Lupi\xE1\xF1ez"
+  - Blanche Capel
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2024-12-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39793067
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.10.617585
+  title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
+    gene program in bat wing development
+  authors:
+  - Magdalena Schindler
+  - Christian Feregrino
+  - Silvia Aldrovandi
+  - Bai-Wei Lo
+  - Anna A. Monaco
+  - Alessa R. Ringel
+  - Ariadna Morales
+  - Tobias Zehnder
+  - Rose Yinghan Behncke
+  - Juliane Glaser
+  - Alexander Barclay
+  - Guillaume Andrey
+  - "Bj\xF8rt K. Kragesteen"
+  - "Ren\xE9 H\xE4gerling"
+  - Stefan Haas
+  - Martin Vingron
+  - Igor Ulitsky
+  - Marc Marti-Renom
+  - Julio Hechavarria
+  - Nicolas Fasel
+  - Michael Hiller
+  - "Dar\xEDo Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  - Francisca M. Real
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-13'
+  link: https://doi.org/g8739d
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38714644
   title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster.
   authors:
@@ -170,6 +223,35 @@
   type: paper
   description: Currently as a preprint on BioRxiv.
   image: images/biorxiv.png
+- id: pmid:36041235
+  title: Analysis of copy number variation in men with non-obstructive azoospermia.
+  authors:
+  - M J Wyrwoll
+  - R Wabschke
+  - "A R\xF6pke"
+  - "M W\xF6ste"
+  - C Ruckert
+  - S Perrey
+  - N Rotte
+  - J Hardy
+  - L Astica
+  - "D G Lupi\xE1\xF1ez"
+  - J Wistuba
+  - "B Westernstr\xF6er"
+  - S Schlatt
+  - A J Berman
+  - "A M M\xFCller"
+  - S Kliesch
+  - A N Yatsenko
+  - "F T\xFCttelmann"
+  - C Friedrich
+  publisher: Andrology
+  date: '2022-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36041235
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:36112694
   title: "C/EBP\u03B2 regulates lipid metabolism and"
   authors:
