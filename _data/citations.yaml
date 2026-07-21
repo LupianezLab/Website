@@ -1,23 +1,99 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pmid:39793067
-  title: Gonadal sex and temperature independently influence germ cell differentiation
-    and meiotic progression in
+- id: doi:10.1038/s41594-026-01749-z
+  title: Chromatin spatial analysis by METALoci unveils sex-determining 3D regulatory
+    hubs
   authors:
-  - Talia Hatkevich
-  - Boris M Tezak
-  - Rafael D Acemel
-  - Vicky Wai Yee Chung
-  - "Dario G Lupi\xE1\xF1ez"
+  - "Irene Mota-G\xF3mez"
+  - "Juan Antonio Rodr\xEDguez"
+  - Shannon Dupont
+  - Alicia Hurtado
+  - Vanessa Cadenas
+  - Leo Zuber
+  - Iago Maceda
+  - Oscar Lao
+  - Johanna Jedamzick
+  - "Ralf K\xFChn"
+  - Scott Lacadie
+  - "Sara Alexandra Garc\xEDa-Moreno"
+  - Miguel Torres
+  - Francisca M. Real
+  - Rafael D. Acemel
   - Blanche Capel
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2024-12-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39793067
+  - Marc A. Marti-Renom
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2026-02-24'
+  link: https://doi.org/qxg8
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41559-025-02780-x
+  title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
+    gene programme in bat wing development
+  authors:
+  - Magdalena Schindler
+  - Christian Feregrino
+  - Silvia Aldrovandi
+  - Bai-Wei Lo
+  - Anna A. Monaco
+  - Alessa R. Ringel
+  - Ariadna E. Morales
+  - Tobias Zehnder
+  - Rose Yinghan Behncke
+  - Juliane Glaser
+  - Alexander Barclay
+  - Guillaume Andrey
+  - "Bj\xF8rt K. Kragesteen"
+  - "Ren\xE9 H\xE4gerling"
+  - Stefan A. Haas
+  - Martin Vingron
+  - Igor Ulitsky
+  - Marc A. Marti-Renom
+  - Julio Hechavarria
+  - Nicolas Fasel
+  - Michael Hiller
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - Stefan Mundlos
+  - Francisca M. Real
+  publisher: Nature Ecology &amp; Evolution
+  date: '2025-07-16'
+  link: https://doi.org/g9v4sz
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41594-025-01544-2
+  title: Decoupling chromatin hubs from gene control
+  authors:
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2025-05-13'
+  link: https://doi.org/hcb7xb
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2413191121
+  title: "Gonadal sex and temperature independently influence germ cell differentiation\
+    \ and meiotic progression in\n                    <i>Trachemys scripta</i>"
+  authors:
+  - Talia Hatkevich
+  - Boris M. Tezak
+  - Rafael D. Acemel
+  - Vicky Wai Yee Chung
+  - "Dario G. Lupi\xE1\xF1ez"
+  - Blanche Capel
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-12-30'
+  link: https://doi.org/g9bgsx
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/trachemys.png
 - id: doi:10.1101/2024.10.10.617585
   title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
     gene program in bat wing development
@@ -46,39 +122,41 @@
   - "Dar\xEDo Lupi\xE1\xF1ez"
   - Stefan Mundlos
   - Francisca M. Real
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-13'
   link: https://doi.org/g8739d
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:38714644
-  title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster.
+- id: doi:10.1038/s41467-024-47658-x
+  title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
   authors:
   - Alicia Hurtado
   - "Irene Mota-G\xF3mez"
   - Miguel Lao
-  - Francisca M Real
+  - Francisca M. Real
   - Johanna Jedamzick
   - Miguel Burgos
-  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
   - "Rafael Jim\xE9nez"
-  - Francisco J Barrionuevo
-  publisher: Nature communications
+  - Francisco J. Barrionuevo
+  publisher: Nature Communications
   date: '2024-05-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38714644
+  link: https://doi.org/gtt7wc
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:38658712
-  title: Marsupial genomes reveal how a skin membrane for gliding evolved.
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/miRNA.jpg
+- id: doi:10.1038/d41586-024-01021-8
+  title: Marsupial genomes reveal how a skin membrane for gliding evolved
   authors:
-  - "Dar\xEDo G Lupi\xE1\xF1ez"
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
   publisher: Nature
-  date: '2024-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38658712
+  date: '2024-04-24'
+  link: https://doi.org/hcb7xc
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
   plugin: orcid.py
@@ -196,6 +274,26 @@
   dario-lupianez: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2023.03.22.533123
+  title: "Complete male-to-female sex reversal in XY mice lacking the\n          \
+    \        <i>miR-17\u223C92</i>\n                  cluster"
+  authors:
+  - Alicia Hurtado
+  - "Irene Mota-G\xF3mez"
+  - Miguel Lao
+  - Francisca M. Real
+  - Johanna Jedamzick
+  - Miguel Burgos
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J. Barrionuevo
+  publisher: openRxiv
+  date: '2023-03-23'
+  link: https://doi.org/g8739g
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.11.18.516861
   title: Sex-determining 3D regulatory hubs revealed by genome spatial auto-correlation
     analysis
@@ -213,7 +311,7 @@
   - Blanche Capel
   - Marc A. Marti-Renom
   - "Dar\xEDo G. Lupi\xE1\xF1ez"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-11-18'
   link: https://doi.org/gq9qx4
   orcid: 0000-0002-3165-036X
@@ -223,35 +321,6 @@
   type: paper
   description: Currently as a preprint on BioRxiv.
   image: images/biorxiv.png
-- id: pmid:36041235
-  title: Analysis of copy number variation in men with non-obstructive azoospermia.
-  authors:
-  - M J Wyrwoll
-  - R Wabschke
-  - "A R\xF6pke"
-  - "M W\xF6ste"
-  - C Ruckert
-  - S Perrey
-  - N Rotte
-  - J Hardy
-  - L Astica
-  - "D G Lupi\xE1\xF1ez"
-  - J Wistuba
-  - "B Westernstr\xF6er"
-  - S Schlatt
-  - A J Berman
-  - "A M M\xFCller"
-  - S Kliesch
-  - A N Yatsenko
-  - "F T\xFCttelmann"
-  - C Friedrich
-  publisher: Andrology
-  date: '2022-09-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36041235
-  orcid: 0000-0002-3165-036X
-  dario-lupianez: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:36112694
   title: "C/EBP\u03B2 regulates lipid metabolism and"
   authors:
@@ -314,6 +383,115 @@
     evolution
   date: '2022-05-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35535962
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/andr.13267
+  title: "Analysis of copy number variation in men with non\u2010obstructive azoospermia"
+  authors:
+  - M. J. Wyrwoll
+  - R. Wabschke
+  - "A. R\xF6pke"
+  - "M. W\xF6ste"
+  - C. Ruckert
+  - S. Perrey
+  - N. Rotte
+  - J. Hardy
+  - L. Astica
+  - "D. G. Lupi\xE1\xF1ez"
+  - J. Wistuba
+  - "B. Westernstr\xF6er"
+  - S. Schlatt
+  - A. J. Berman
+  - "A. M. M\xFCller"
+  - S. Kliesch
+  - A. N. Yatsenko
+  - "F. T\xFCttelmann"
+  - C. Friedrich
+  publisher: Andrology
+  date: '2022-09-23'
+  link: https://doi.org/hcb7xd
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.12.476048
+  title: Cell adhesion and immune response, two main functions altered in the transcriptome
+    of seasonally regressed testes of two mammalian species
+  authors:
+  - Francisca M. Real
+  - "Miguel Lao-P\xE9rez"
+  - Miguel Burgos
+  - Stefan Mundlos
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  - "Rafael Jim\xE9nez"
+  - Francisco J. Barrionuevo
+  publisher: openRxiv
+  date: '2022-01-12'
+  link: https://doi.org/g8739h
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.21.485123
+  title: The little skate genome and the evolutionary emergence of wing-like fin appendages
+  authors:
+  - Ferdinand Marletaz
+  - Elisa de la Calle-Mustienes
+  - Rafael D. Acemel
+  - Tetsuya Nakamura
+  - Christina Paliou
+  - Silvia Naranjo
+  - Pedro M. Martinez-Garcia
+  - Ildefonso Cases
+  - Victoria A. Sleight
+  - Christine Hirschberger
+  - Marina Marcet-Houben
+  - Dina Navon
+  - Ali Andrescavage
+  - Ksenia Skvortsova
+  - Paul E. Duckett
+  - Alvaro Gonzalez-Rajal
+  - Ozren Bogdanovic
+  - Johan H. Gibcus
+  - Liyan Yang
+  - Lourdes Gallardo-Fuentes
+  - Ismael Sospedra
+  - Javier Lopez-Rios
+  - Fabrice Darbellay
+  - Axel Visel
+  - Job Dekker
+  - Neil Shubin
+  - Toni Gabaldon
+  - Juan J. Tena
+  - Dario G. Lupianez
+  - Daniel S. Rokhsar
+  - Jose L. Gomez-Skarmeta
+  publisher: openRxiv
+  date: '2022-03-22'
+  link: https://doi.org/gsxqmg
+  orcid: 0000-0002-3165-036X
+  dario-lupianez: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.04.14.439779
+  title: "<i>In vivo</i>\n                  dissection of a clustered-CTCF domain\
+    \ boundary reveals developmental principles of regulatory insulation"
+  authors:
+  - Chiara Anania
+  - Rafael D. Acemel
+  - Johanna Jedamzick
+  - Adriano Bolondi
+  - Giulia Cova
+  - Norbert Brieske
+  - "Ralf K\xFChn"
+  - Lars Wittler
+  - Francisca M. Real
+  - "Dar\xEDo G. Lupi\xE1\xF1ez"
+  publisher: openRxiv
+  date: '2021-04-14'
+  link: https://doi.org/gsw9s8
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
   plugin: orcid.py
@@ -383,7 +561,7 @@
   - "Dar\xEDo G. Lupi\xE1\xF1ez"
   - Orsolya Symmons
   - Daniel M. Ibrahim
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-02-22'
   link: https://doi.org/gkwmzg
   orcid: 0000-0002-3165-036X
@@ -988,42 +1166,6 @@
   link: https://doi.org/g9bgr8
   type: paper
   image: images/engineering3.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41467-024-47658-x
-  title: Complete male-to-female sex reversal in XY mice lacking the miR-17~92 cluster
-  authors:
-  - Alicia Hurtado
-  - "Irene Mota-G\xF3mez"
-  - Miguel Lao
-  - Francisca M. Real
-  - Johanna Jedamzick
-  - Miguel Burgos
-  - "Dar\xEDo G. Lupi\xE1\xF1ez"
-  - "Rafael Jim\xE9nez"
-  - Francisco J. Barrionuevo
-  publisher: Nature Communications
-  date: '2024-05-07'
-  link: https://doi.org/gtt7wc
-  type: paper
-  image: images/miRNA.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1073/pnas.2413191121
-  title: "Gonadal sex and temperature independently influence germ cell differentiation\
-    \ and meiotic progression in\n            <i>Trachemys scripta</i>"
-  authors:
-  - Talia Hatkevich
-  - Boris M. Tezak
-  - Rafael D. Acemel
-  - Vicky Wai Yee Chung
-  - "Dario G. Lupi\xE1\xF1ez"
-  - Blanche Capel
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2024-12-30'
-  link: https://doi.org/g9bgsx
-  type: paper
-  image: images/trachemys.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.gde.2022.102019
