@@ -13,6 +13,12 @@ nav:
 
 {% capture col1 %}
 
+{% include citation.html lookup="https://doi.org/10.1038/s41594-026-01749-z" style="rich" %} <!--MetaLoci-->
+
+{% endcapture %}
+
+{% capture col1 %}
+
 {% include citation.html lookup="doi:10.1038/s41467-024-47658-x" style="rich" %} <!--miRNA-->
 
 {% endcapture %}
