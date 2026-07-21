@@ -27,8 +27,10 @@
   link: https://doi.org/qxg8
   orcid: 0000-0002-3165-036X
   dario-lupianez: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/MetaLoci.png
 - id: doi:10.1038/s41559-025-02780-x
   title: Comparative single-cell analyses reveal evolutionary repurposing of a conserved
     gene programme in bat wing development
